@@ -1,0 +1,21 @@
+{
+	"sniffer_1":"Charles",
+	"sniffer_2":"Fiddler",
+	"API":"Postman",
+	"Documentation_1":"Bug-report",
+	"Documentation_2":"Test-cases",
+	"Documentation_3":"Check-lists",
+	"Test design 1":"Pairwise testing",
+	"Test design 2":"Equivalent class",
+	"Test design 3":"Boundary value analysis",
+	"Types of testing 1":"Smoke testing",
+	"Types of testing 2":"Critical path testing",
+	"Types of testing 3":"Regression testing",
+	"Types of testing 4":"UAT",
+	"Net protocols":"HTTP/HTTPS",
+	"Docs":"Apidoc",
+	"SQL":"PostgreSQL",
+	"Modile 1":"Android studio",
+	"Mobile 2":"ADB"
+}
+
