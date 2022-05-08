@@ -1,1 +1,11 @@
 
+{
+"Header": "What?_Where?_When?",
+"Summary": "Summary",
+"STR": "Steps_To_Reproduce",
+"ER": "Expected_result",
+"R": "Result",
+"Environment": "OS_Browser",
+"Attachments": "File",
+"Severity/Priority": "Critical"
+}
